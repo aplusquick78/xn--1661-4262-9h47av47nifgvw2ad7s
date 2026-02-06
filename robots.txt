@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://고양퀵1661-4262전화.8222quick.com/sitemap.xml
+
+
